@@ -1,0 +1,43 @@
+.container{
+    align-items: center;
+    
+    background-color: white;
+    flex-direction: column;
+    border:1px;
+    border-style: solid;
+    justify-items: center;
+    margin: 3rem 17rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+
+}
+.heading{
+    font-size: 1.8rem;
+    color: black;
+    display: flex;
+
+}
+.grid{
+    display: grid;
+    gap:50px;
+}
+.grid-three-cols{
+    grid-template-columns: repeat(3,1fr);
+}
+button{
+    background-color: black;
+    padding: 1.2rem 2.2rem;
+    color: white;
+    cursor: pointer;
+    border-radius: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+input{
+    width: 102%;
+    box-sizing: border-box;
+    padding: 12px 20px;
+}
+p{
+    padding-right: 10rem
+}

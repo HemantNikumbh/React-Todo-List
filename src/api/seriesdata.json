@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Queen of Tear",
+        "id":"Queen of Tear",
+        "img_url":"./image/stranger.jpg",
+        "rating":"8.3",
+        "description":"Geralt of riva ,a mulated monster hunter far hir, journey toward his destiny in a turbulent world",
+        "cast":["Henry cavill","Anya chalotra"],
+        "gernre":["Action","Drama"]
+
+    },
+    {
+        "name":"Queen of Tear",
+        "id":"Queen of Tear",
+        "img_url":"./image/stranger.jpg",
+        "rating":"8.3",
+        "description":"Geralt of riva ,a mulated monster hunter far hir, journey toward his destiny in a turbulent world",
+        "cast":["Henry cavill","Anya chalotra"],
+        "gernre":["Action","Drama"]
+
+    },
+    {
+        "name":"Queen of Tear",
+        "id":"Queen of Tear",
+        "img_url":"./image/stranger.jpg",
+        "rating":"8.3",
+        "description":"Geralt of riva ,a mulated monster hunter far hir, journey toward his destiny in a turbulent world",
+        "cast":["Henry cavill","Anya chalotra"],
+        "gernre":["Action","Drama"]
+
+    }
+]
